@@ -1,0 +1,15 @@
+.new-employee {
+  width: 100%;
+  max-width: 580px;
+  margin: 30px auto 0;
+  padding: 30px;
+  background: #fff;
+  border: 1px solid #ddd;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons button {
+  margin-right: 10px;
+}

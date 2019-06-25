@@ -1,0 +1,16 @@
+section#employee-list {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+section#employee-list .row {
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
+
+section#employee-list .col span {
+  font-size: 16px;
+}
